@@ -1,0 +1,15 @@
+{
+  "originHash" : "93c9c921b519de7a5c254bb00aabf0cea874046fe952018591a455eafa9d2bf9",
+  "pins" : [
+    {
+      "identity" : "mcnetworkservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/IsraelGtz/MCNetworkService.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ce64ed541f7e6a188be5116c1e9fd8a5fd64f4c7"
+      }
+    }
+  ],
+  "version" : 3
+}

@@ -16,7 +16,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(name: "MCNetworkService", path: "../MCNetworkService"),
+        .package(url: "https://github.com/IsraelGtz/MCNetworkService.git", branch: "main")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
